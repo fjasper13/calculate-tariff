@@ -82,9 +82,6 @@ func main() {
 		},
 	}
 
-	fmt.Println("TESTTT")
-	fmt.Println("TESTTT")
-	fmt.Println("TESTTT")
 	distance := 11.0
 	distanceInMeter := distance * 1000
 	tempMapRange := make(map[int32]Tariff)
