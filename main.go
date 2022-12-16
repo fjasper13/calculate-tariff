@@ -83,6 +83,7 @@ func main() {
 	}
 
 	fmt.Println("QQQQQ")
+	fmt.Println("GEGEGE")
 
 	distance := 11.0
 	distanceInMeter := distance * 1000
