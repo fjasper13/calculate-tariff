@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("GEGE")
+	fmt.Println("GEGEMM")
 }
